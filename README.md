@@ -4,7 +4,7 @@
 
 This project is a browser-based sound generator designed to explore the **therapeutic and perceptual impact of sine waves**. Built in React with the **Web Audio API**, it invites slow listening and subtle interaction with tone, space, and movement.
 
-It was conceived as a quick prototype—coded in a day—to create a focused, calming interface for **intentional sound experiences**. Users can shape the tone’s frequency, add binaural differences, modulate the waveform, and control dynamics, all in real time.
+It was conceived as a quick prototype, coded in a day—to, create a focused, calming interface for **intentional sound experiences**. Users can shape the tone’s frequency, add binaural differences, modulate the waveform, and control dynamics, all in real time.
 
 ---
 
